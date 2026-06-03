@@ -17,10 +17,19 @@
 
 ### about
 
-- building something i can't talk about yet :3
-- **"imnobubtw"** on every platform, no exceptions
-- open to collabs on weird / interesting stuff
-- i like it when code is clean and life is not :\
+```
+[01] i don't fix bugs. i debate with them.
+[02] my commit message is gooning .
+[03] im in realtion ship with "claude".
+[04] i've been "almost done" for 69 months T-T.
+[05] sleep() is a function i rarely call.
+[06] building something i can't talk about yet :3
+[07] "imnobubtw"  in all platforms
+[08] open to collabs on weird stuff
+[09] clean code, messy life :\
+```
+<br/>
+
 ---
 
 ### discord presence
@@ -40,6 +49,49 @@
 </p>
 
 ---
+
+
+### stats
+<div align="center">
+
+```
+╔══════════════════════════════════════════╗
+║  status: online                          ║
+║  user: imnobubtw                         ║
+║  what am i doing ? : coding-sleeping     ║
+║  mood: died :\                           ║
+╚══════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+
+**`sys-stats`**
+
+```
+caffiene_consumed  ████████████\\  [CRITICAL]
+bugs_introduced    ██████████\\\\  [HIGH]
+bugs_fixed         ████\\\\\\\\\\  [LOW]
+git_commits        ██████████\\\\  [STABLE]
+sleep_hours        \\\\\\\\\\\\\\  [.......]
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%"/>
