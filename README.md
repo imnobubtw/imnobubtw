@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1280916198510428160?theme=dark&bg=1a1a2e&borderRadius=10px&idleMessage=probably+staring+at+code)](https://discord.com/users/1280916198510428160)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1280916198510428160?theme=dark&bg=1a1a2e&borderRadius=10px&idleMessage=ofline+=+gooning)](https://discord.com/users/1280916198510428160)
 
 </div>
 
