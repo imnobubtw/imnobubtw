@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=hi%2C+i'm+nobu+%3Ew%3C;software+developer;building+in+the+shadows...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=hi%2C+i'm+nobu+%3Ew%3C;software+developer;blaa+blaa+blaa+blaaaaaa...)](https://git.io/typing-svg)
 
 <p><b>i write code. sometimes it works.</b></p>
 
